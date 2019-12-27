@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,Das Erste
+http://192.168.178.55/?freq=11836&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28106&pmt=100&pids=0,101,102,100
+#EXTINF:-1,ZDF HD
+http://192.168.178.55/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11110&pmt=6100&pids=0,6110,6120,6100
+#EXTINF:-1,RTL Television
+http://192.168.178.55/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12003&pmt=44&pids=0,163,104,44
+#EXTINF:-1,SAT.1
+http://192.168.178.55/?freq=12051&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=20009&pmt=104&pids=0,2047,2048,104
+#EXTINF:-1,RTL2
+http://192.168.178.55/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12020&pmt=46&pids=0,166,128,46
+#EXTINF:-1,ProSieben
+http://192.168.178.55/?freq=12051&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=20002&pmt=1025&pids=0,161,84,1025
+#EXTINF:-1,VOX
+http://192.168.178.55/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12060&pmt=47&pids=0,167,136,47
+#EXTINF:-1,Kabel 1
+http://192.168.178.55/?freq=12051&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=20004&pmt=1027&pids=0,166,167,1027
+#EXTINF:-1,WDR HD Dortmund
+http://192.168.178.55/?freq=12421&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28327&pmt=5520&pids=0,5501,5502,5520
+#EXTINF:-1,BR Fernsehen HD
+http://192.168.178.55/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10326&pmt=5210&pids=0,5201,5202,5210
+#EXTINF:-1,hr-fernsehen HD
+http://192.168.178.55/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10355&pmt=5350&pids=0,5351,5352,5350
+#EXTINF:-1,NDR FS NDS HD
+http://192.168.178.55/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10327&pmt=5220&pids=0,5221,5222,5220
+#EXTINF:-1,SWR Fernsehen
+http://192.168.178.55/?freq=11836&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28113&pmt=800&pids=0,801,802,800
+#EXTINF:-1,SR Fernsehen HD
+http://192.168.178.55/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10378&pmt=5430&pids=0,5431,5432,5430
+#EXTINF:-1,MDR Thüringen
+http://192.168.178.55/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10354&pmt=5340&pids=0,5331,5332,5340
+#EXTINF:-1,rbb Brandenburg HD
+http://192.168.178.55/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10350&pmt=5300&pids=0,5311,5312,5300
+#EXTINF:-1,ARTE
+http://192.168.178.55/?freq=11895&src=aa&pol=v&msys=dvbs2&fec=56&rolloff=35&pilots=auto&sr=29700&mtype=auto&sid=8321&pmt=2100&pids=0,2110,2121,2100
+#EXTINF:-1,3sat HD
+http://192.168.178.55/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11150&pmt=6500&pids=0,6510,6520,6500
+#EXTINF:-1,phoenix HD
+http://192.168.178.55/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10331&pmt=5260&pids=0,5261,5262,5260
+#EXTINF:-1,ARD-alpha HD
+http://192.168.178.55/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10377&pmt=5420&pids=0,5421,5422,5420
+#EXTINF:-1,ONE HD
+http://192.168.178.55/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10376&pmt=5410&pids=0,5411,5412,5410
+#EXTINF:-1,tagesschau24 HD
+http://192.168.178.55/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10375&pmt=5400&pids=0,5401,5402,5400
+#EXTINF:-1,ZDFinfo HD
+http://192.168.178.55/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11170&pmt=6700&pids=0,6710,6720,6700
+#EXTINF:-1,zdf_neo HD
+http://192.168.178.55/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11130&pmt=6300&pids=0,6310,6320,6300
+#EXTINF:-1,NITRO
+http://192.168.178.55/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12061&pmt=53&pids=0,173,146,53
+#EXTINF:-1,SAT.1 Gold
+http://192.168.178.55/?freq=11670&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=5310&pmt=106&pids=0,2815,2816,106
+#EXTINF:-1,Pro7 MAXX
+http://192.168.178.55/?freq=11670&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=5311&pmt=107&pids=0,3071,3072,107
+#EXTINF:-1,TELE 5
+http://192.168.178.55/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=51&pmt=99&pids=0,1535,1536,99
+#EXTINF:-1,ANIXE+
+http://192.168.178.55/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=764&pmt=107&pids=0,3311,3312,107
